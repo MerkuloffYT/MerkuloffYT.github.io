@@ -4,6 +4,10 @@ BODY {
 	background-color: rgb(0,0,0);
 }
 
+.img1 {
+width: 50%;
+}
+
 input { 
 	display: none;
 	margin: 0%;
